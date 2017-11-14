@@ -16,6 +16,6 @@ phases:
  
 artifacts:
   files:
-    - target/duck-hub-cb-4.3.war
+    - target/duck-hub-codebuild-4.3.war
     - '**/*.pdf'
   discard-paths: yes
